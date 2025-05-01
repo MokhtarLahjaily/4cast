@@ -1,0 +1,13 @@
+{
+    "name": "weather-4caster",
+    "version": "1.0.0",
+    "description": "Static weather forecast web app",
+    "main": "index.html",
+    "scripts": {
+      "start": "http-server -p 8080"
+    },
+    "dependencies": {
+      "http-server": "^14.1.1"
+    }
+  }
+  
