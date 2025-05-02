@@ -156,4 +156,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Mokhtar Lahjaily - [GitHub](https://github.com/MokhtarLahjaily)
 
-Project Link: [https://github.com/MokhtarLahjaily/weather-4caster](https://github.com/MokhtarLahjaily/weather-4caster)
+Project Link: [https://github.com/MokhtarLahjaily/weather-4caster](https://github.com/MokhtarLahjaily/4cast)
