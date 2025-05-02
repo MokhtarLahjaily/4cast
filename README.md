@@ -13,9 +13,6 @@ A sleek, responsive web application that provides current weather information an
 - 📱 **Responsive Design**: Works smoothly on desktop and mobile devices
 - 🐳 **Docker Support**: Easy deployment with Docker
 
-## Demo
-
-Check out the live demo: [Weather 4Caster Demo](https://your-demo-link-here.com)
 
 ## Technologies Used
 
